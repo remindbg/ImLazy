@@ -17,6 +17,13 @@
         "psr-4": {
             "remindbg\\lazya\\": "src"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "remindbg\\lazya\\src\\LazyaServiceProvider"
+            ]
+        }
     }
 
 }
