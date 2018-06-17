@@ -3,6 +3,10 @@
     "description": "later to add",
     "type": "libraly",
     "license": "MIT",
+    "support": {
+        "issues": "https://github.com/remindbg/lazya/issues",
+        "source": "https://github.com/remindbg/lazya"
+    },
     "authors": [
         {
             "name": "Cvetomir Goranov",
@@ -15,7 +19,7 @@
 
     "autoload": {
         "psr-4": {
-            "remindbg\\lazya\\": "src"
+            "remindbg\\lazya\\": "src/"
         }
     },
     "extra": {
