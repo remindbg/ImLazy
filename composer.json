@@ -1,0 +1,22 @@
+{
+    "name": "remindbg/lazya",
+    "description": "later to add",
+    "type": "libraly",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cvetomir Goranov",
+            "email": "remindbg@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "remindbg\\lazya\\": "src"
+        }
+    }
+
+}
